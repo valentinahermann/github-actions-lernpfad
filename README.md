@@ -12,7 +12,7 @@
 _Create a GitHub Action and use it in a workflow._
 
 ![My workflow]
-(https://github.com/valentinahermann/github-actions-lernpfad/blob/main/.github/workflows/welcome.yml)
+(https://github.com/valentinahermann/github-actions-lernpfad/blob/main/.github/workflows/welcome.yml/badge.svg)
 
 </header>
 
