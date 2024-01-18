@@ -11,7 +11,8 @@
 
 _Create a GitHub Action and use it in a workflow._
 
-https://github.com/OWNER/REPOSITORY/actions/workflows/welcome.yml/badge.svg
+![example workflow]
+(https://github.com/github/docs/actions/workflows/welcome.yml/badge.svg)
 
 </header>
 
